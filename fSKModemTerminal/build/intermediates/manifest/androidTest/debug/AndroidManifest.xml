@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bg.cytec.android.fskmodem.examples.terminal.test">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="bg.cytec.android.fskmodem.examples.terminal"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for bg.cytec.android.fskmodem.examples.terminal"/>
+</manifest>

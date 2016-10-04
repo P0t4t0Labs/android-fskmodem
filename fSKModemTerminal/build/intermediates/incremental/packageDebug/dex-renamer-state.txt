@@ -1,0 +1,7 @@
+#Tue Oct 04 01:02:41 EDT 2016
+base.0=/Users/kris/workspace/potato-labs/android-fskmodem/fSKModemTerminal/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84a7643ea8d4618ee5a45ab837f41cc3fb7b7429
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kris/workspace/potato-labs/android-fskmodem/fSKModemTerminal/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e50d1a6d2063703da4dd8e03707f48ebe43beec3/classes.dex
+base.1=/Users/kris/workspace/potato-labs/android-fskmodem/fSKModemTerminal/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e50d1a6d2063703da4dd8e03707f48ebe43beec3
+file.0=/Users/kris/workspace/potato-labs/android-fskmodem/fSKModemTerminal/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84a7643ea8d4618ee5a45ab837f41cc3fb7b7429/classes.dex
